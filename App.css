@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(42, 110, 247);
+}
+
+h1{
+  margin-top:-1px;
+  margin-left:130px;
+}
+
+label{
+  float: left;
+  margin-right: 1em;
+  font-weight:bold;
+}
